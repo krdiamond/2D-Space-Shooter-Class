@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E055B422-8B63-8FC7-F629-77F0A6D9DE35}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RobAssets/RobScripts/CamFollow.cs">
+    <Files>
+      <File FileName="Assets/RobAssets/RobScripts/PlayerController.cs" Line="70" Column="21" />
+      <File FileName="Assets/RobAssets/RobScripts/PlayerSpawn.cs" />
+      <File FileName="Assets/RobAssets/RobScripts/Shoot.cs" Line="18" Column="94" />
+      <File FileName="Assets/RobAssets/RobScripts/HealthCounter.cs" Line="23" Column="20" />
+      <File FileName="Assets/RobAssets/RobScripts/CamFollow.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="cd538a01-7c35-489e-9f2b-96df29806788" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
