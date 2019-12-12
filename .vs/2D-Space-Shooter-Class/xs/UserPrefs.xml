@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{81BEDA68-44EA-B2F2-D86E-9DCB9502E44C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RobAssets/RobScripts/Shoot.cs">
+    <Files>
+      <File FileName="Assets/RobAssets/RobScripts/AsteroidSpawner.cs" Line="45" Column="2" />
+      <File FileName="Assets/RobAssets/RobScripts/AsteroidSpawner.cs" Line="45" Column="2" />
+      <File FileName="Assets/RobAssets/RobScripts/Shoot.cs" Line="19" Column="13" />
+      <File FileName="Assets/RobAssets/RobScripts/ProjectileController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2D-Space-Shooter-Class" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="RobAssets" expanded="True">
+                <Node name="RobScripts" expanded="True">
+                  <Node name="Shoot.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a4557062-d8be-42fe-bc12-cd378383a419" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
