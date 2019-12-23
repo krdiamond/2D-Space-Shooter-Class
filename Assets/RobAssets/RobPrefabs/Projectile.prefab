@@ -132,3 +132,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b315369e0ec2a4bf59a95d1f89695c29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  explosionAsteroid: {fileID: 21300000, guid: 424f5cb8ef6b14f9183c6365c4be96c4, type: 3}

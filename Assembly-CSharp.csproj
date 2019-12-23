@@ -65,10 +65,14 @@
   <ItemGroup>
     <Compile Include="Assets\RobAssets\RobScripts\AsteroidSpawner.cs" />
     <Compile Include="Assets\RobAssets\RobScripts\CamFollow.cs" />
+    <Compile Include="Assets\RobAssets\RobScripts\GameController.cs" />
     <Compile Include="Assets\RobAssets\RobScripts\HealthCounter.cs" />
     <Compile Include="Assets\RobAssets\RobScripts\PlayerController.cs" />
     <Compile Include="Assets\RobAssets\RobScripts\PlayerSpawn.cs" />
     <Compile Include="Assets\RobAssets\RobScripts\ProjectileController.cs" />
+    <Compile Include="Assets\RobAssets\RobScripts\Replay.cs" />
+    <Compile Include="Assets\RobAssets\RobScripts\ScoreHolderScript.cs" />
+    <Compile Include="Assets\RobAssets\RobScripts\SelfDestruct.cs" />
     <Compile Include="Assets\RobAssets\RobScripts\Shoot.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />

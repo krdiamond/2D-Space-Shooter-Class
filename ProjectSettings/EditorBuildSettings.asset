@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RobAssets/RobScenes/Scene0.unity
+    guid: 2f23309543c554502886e37653b039a6
   m_configObjects: {}
